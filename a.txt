@@ -1,2 +1,4 @@
 teste
 teste2
+Esta linha foi modificada no ramo master
+Esta linha está modificado no ramo teste
